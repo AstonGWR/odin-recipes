@@ -1,0 +1,76 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    line-height: 1.5;
+}
+
+.title {
+    background-color: orange;
+    color: black;
+    font-weight: 800;
+    text-align: center;
+    border: 2px dashed black;
+    display: block;
+}
+
+.link {
+    font-size: larger;
+    color: black;
+    background-color: orange;
+    font-weight: bold;
+    border: 2px dashed black;
+    display: inline-block;
+    padding: 8px;
+    margin: 8px;
+}
+
+.num {
+    font-size: larger;
+    text-align: center;
+    font-weight: bold;
+}
+
+.Description {
+    background-color: black;
+    color: orange;
+    border: 2px dashed orange;
+    display: inline-block;
+    padding: 15px;
+}
+
+ul,
+ol {
+    background-color: black;
+    color: orange;
+    border: 2px dashed orange;
+    display: inline-block;
+    padding: 15px;
+    display: block;
+    list-style-type: none;
+}
+
+img {
+    display: block;
+    padding: 8px;
+    margin: 8px auto;
+}
+
+.index {
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+}
+
+.recipe-card {
+    width: 750px;
+    margin: auto;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+#kfc {
+    width: 90%;
+
+}
